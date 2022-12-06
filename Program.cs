@@ -1,5 +1,5 @@
 using System;
-public class Exercise8
+public class Yusuf
 {
     public static void Main()
     {
